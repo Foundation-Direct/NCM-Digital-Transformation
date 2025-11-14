@@ -1,0 +1,16 @@
+- Getting Started
+  - [Introduction](/sections/00-Introduction.md)
+  - [Definitions & Scope](/sections/01-Definitions-Scope.md)
+- Implementation Model
+  - [Product Types](/sections/02-Product-Types.md)
+  - [Integration Types](/sections/03-Integration-Types.md)
+- Data & Events
+  - [Data Layer Requirements](/sections/04-DataLayer-Requirements.md)
+  - [Event Specification](/sections/05-Event-Specification.md)
+  - [GA4 & GTM Requirements](/sections/06-GA4-GTM-Requirements.md)
+- Examples
+  - [Implementation Examples](/sections/07-Examples.md)
+- Vendor Onboarding
+  - [Vendor Checklist & Attestation](/sections/08-Vendor-Attestation.md)
+- Reference
+  - [FAQ](/sections/09-FAQ.md)
