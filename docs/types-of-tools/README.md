@@ -1,4 +1,4 @@
-#Types Of Tools
+# Types Of Tools
 
 We break out tools into: 
 - Digital Retailing Tools
